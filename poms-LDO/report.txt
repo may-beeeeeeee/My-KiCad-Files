@@ -1,0 +1,162 @@
+信息: 正在处理符号 'Ccomp1:Capacitor_SMD:C_0805_2012Metric'。
+信息: 正在处理符号 'J1:TerminalBlock_CUI:TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal'。
+信息: 正在处理符号 'CIN1:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'R1:Resistor_SMD:R_0805_2012Metric'。
+信息: 正在处理符号 'Q1:Package_TO_SOT_SMD:SOT-23'。
+信息: 正在处理符号 'J2:TerminalBlock_CUI:TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal'。
+信息: 正在处理符号 'COUT1:Capacitor_SMD:C_1206_3216Metric'。
+信息: 正在处理符号 'R2:Resistor_SMD:R_0805_2012Metric'。
+信息: 正在处理符号 'Rg1:Resistor_SMD:R_0805_2012Metric'。
+信息: 正在处理符号 'Rlim1:Resistor_SMD:R_0805_2012Metric'。
+信息: 正在处理符号 'Rp1:Potentiometer_SMD:Potentiometer_Bourns_3224W_Vertical'。
+信息: 正在处理符号 'U1:'。
+信息: 正在处理符号 'U2:Package_TO_SOT_SMD:SOT-23'。
+已将 Ccomp1 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 Ccomp1 封装筛选规则更新为 'C_*'。
+添加网络 Net-(Ccomp1-Pad2)。
+将 Ccomp1 引脚 2 连接到了 Net-(Ccomp1-Pad2)。
+添加网络 Net-(U1A--)。
+将 Ccomp1 引脚 1 连接到了 Net-(U1A--)。
+已更新 Ccomp1 单元的元数据。
+添加了 CIN1 (封装 'Capacitor_SMD:C_1206_3216Metric')。
+已将 REF** 的位号更改为 CIN1。
+已将 CIN1 的值从 'C_1206_3216Metric' 修改为 '10uF'。
+将 CIN1 符号分配从  更新到 /b4f45fc4-8ce3-4949-bc25-6477cae4d149。
+已更新 CIN1 个字段。
+已将 CIN1 图纸名称更新为 '/'。
+已将 CIN1 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 CIN1 封装筛选规则更新为 'C_*'。
+添加网络 VIN。
+将 CIN1 引脚 1 连接到了 VIN。
+添加网络 GND。
+将 CIN1 引脚 2 连接到了 GND。
+已更新 CIN1 单元的元数据。
+添加了 COUT1 (封装 'Capacitor_SMD:C_1206_3216Metric')。
+已将 REF** 的位号更改为 COUT1。
+已将 COUT1 的值从 'C_1206_3216Metric' 修改为 '10uF'。
+将 COUT1 符号分配从  更新到 /952fee74-e07f-454e-839c-658f1b682029。
+已更新 COUT1 个字段。
+已将 COUT1 图纸名称更新为 '/'。
+已将 COUT1 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 COUT1 封装筛选规则更新为 'C_*'。
+将 COUT1 引脚 2 连接到了 GND。
+添加网络 Vout。
+将 COUT1 引脚 1 连接到了 Vout。
+已更新 COUT1 单元的元数据。
+添加了 J1 (封装 'TerminalBlock_CUI:TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal')。
+已将 REF** 的位号更改为 J1。
+已将 J1 的值从 'TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal' 修改为 'Conn_01x02_Pin'。
+将 J1 符号分配从  更新到 /c3cf4ac6-0550-4e9a-bb36-d1f7e3b73087。
+已更新 J1 个字段。
+已将 J1 图纸名称更新为 '/'。
+已将 J1 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 J1 封装筛选规则更新为 'Connector*:*_1x??_*'。
+将 J1 引脚 2 连接到了 GND。
+将 J1 引脚 1 连接到了 VIN。
+已更新 J1 单元的元数据。
+添加了 J2 (封装 'TerminalBlock_CUI:TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal')。
+已将 REF** 的位号更改为 J2。
+已将 J2 的值从 'TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal' 修改为 'Conn_01x02_Pin'。
+将 J2 符号分配从  更新到 /b2a1a3d2-5fef-4349-9689-c43d9df348b9。
+已更新 J2 个字段。
+已将 J2 图纸名称更新为 '/'。
+已将 J2 封装筛选规则更新为 'Connector*:*_1x??_*'。
+将 J2 引脚 2 连接到了 GND。
+将 J2 引脚 1 连接到了 Vout。
+已更新 J2 单元的元数据。
+添加了 Q1 (封装 'Package_TO_SOT_SMD:SOT-23')。
+已将 REF** 的位号更改为 Q1。
+已将 Q1 的值从 'SOT-23' 修改为 'AO3401A'。
+将 Q1 符号分配从  更新到 /5885547f-2f77-430d-a8c3-be0384c496c9。
+已更新 Q1 个字段。
+已将 Q1 图纸名称更新为 '/'。
+已将 Q1 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 Q1 封装筛选规则更新为 'SOT?23*'。
+添加网络 Net-(Q1-G)。
+将 Q1 引脚 1 连接到了 Net-(Q1-G)。
+将 Q1 引脚 2 连接到了 VIN。
+将 Q1 引脚 3 连接到了 Vout。
+已更新 Q1 单元的元数据。
+已将 J2 图纸文件更新为 'poms-LDO.kicad_sch'。
+添加了 R1 (封装 'Resistor_SMD:R_0805_2012Metric')。
+已将 REF** 的位号更改为 R1。
+已将 R1 的值从 'R_0805_2012Metric' 修改为 '2k'。
+将 R1 符号分配从  更新到 /a5022389-ed15-4392-84a6-a1457c6cc2da。
+已更新 R1 个字段。
+已将 R1 图纸名称更新为 '/'。
+已将 R1 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 R1 封装筛选规则更新为 'R_*'。
+将 R1 引脚 2 连接到了 Vout。
+添加网络 Net-(R1-Pad1)。
+将 R1 引脚 1 连接到了 Net-(R1-Pad1)。
+已更新 R1 单元的元数据。
+添加了 Ccomp1 (封装 'Capacitor_SMD:C_0805_2012Metric')。
+添加了 R2 (封装 'Resistor_SMD:R_0805_2012Metric')。
+已将 REF** 的位号更改为 R2。
+已将 R2 的值从 'R_0805_2012Metric' 修改为 '12k'。
+将 R2 符号分配从  更新到 /5757d3b8-e0a7-4c01-aff1-1493306a2ec7。
+已更新 R2 个字段。
+已将 R2 图纸名称更新为 '/'。
+已将 R2 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 R2 封装筛选规则更新为 'R_*'。
+添加网络 Net-(R2-Pad1)。
+将 R2 引脚 1 连接到了 Net-(R2-Pad1)。
+将 R2 引脚 2 连接到了 GND。
+已更新 R2 单元的元数据。
+已将 REF** 的位号更改为 Ccomp1。
+添加了 Rg1 (封装 'Resistor_SMD:R_0805_2012Metric')。
+已将 REF** 的位号更改为 Rg1。
+已将 Rg1 的值从 'R_0805_2012Metric' 修改为 '1k'。
+将 Rg1 符号分配从  更新到 /422a676d-580b-4db5-991c-d5c1cdcbedfa。
+已更新 Rg1 个字段。
+已将 Rg1 图纸名称更新为 '/'。
+已将 Rg1 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 Rg1 封装筛选规则更新为 'R_*'。
+将 Rg1 引脚 2 连接到了 Net-(Ccomp1-Pad2)。
+将 Rg1 引脚 1 连接到了 Net-(Q1-G)。
+已更新 Rg1 单元的元数据。
+已将 Ccomp1 的值从 'C_0805_2012Metric' 修改为 '10nF'。
+添加了 Rlim1 (封装 'Resistor_SMD:R_0805_2012Metric')。
+已将 REF** 的位号更改为 Rlim1。
+已将 Rlim1 的值从 'R_0805_2012Metric' 修改为 '4.7k'。
+将 Rlim1 符号分配从  更新到 /3198ec95-a56f-4e61-a3ba-5c00471d5251。
+已更新 Rlim1 个字段。
+已将 Rlim1 图纸名称更新为 '/'。
+已将 Rlim1 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 Rlim1 封装筛选规则更新为 'R_*'。
+将 Rlim1 引脚 1 连接到了 VIN。
+添加网络 Net-(U2-REF)。
+将 Rlim1 引脚 2 连接到了 Net-(U2-REF)。
+已更新 Rlim1 单元的元数据。
+将 Ccomp1 符号分配从  更新到 /76b0bbb7-ba77-4f85-a17c-8739b823881e。
+添加了 Rp1 (封装 'Potentiometer_SMD:Potentiometer_Bourns_3224W_Vertical')。
+已将 REF** 的位号更改为 Rp1。
+已将 Rp1 的值从 'Potentiometer_Bourns_3224W_Vertical' 修改为 '20k'。
+将 Rp1 符号分配从  更新到 /acaf0d84-25d5-49db-8307-4a8d915c9213。
+已更新 Rp1 个字段。
+已将 Rp1 图纸名称更新为 '/'。
+已将 Rp1 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 Rp1 封装筛选规则更新为 'Potentiometer*'。
+将 Rp1 引脚 1 连接到了 Net-(R2-Pad1)。
+将 Rp1 引脚 2 连接到了 Net-(U1A--)。
+将 Rp1 引脚 3 连接到了 Net-(R1-Pad1)。
+已更新 Rp1 单元的元数据。
+已更新 Ccomp1 个字段。
+已将 Ccomp1 图纸名称更新为 '/'。
+添加了 U2 (封装 'Package_TO_SOT_SMD:SOT-23')。
+已将 REF** 的位号更改为 U2。
+已将 U2 的值从 'SOT-23' 修改为 'TL431DBZ'。
+将 U2 符号分配从  更新到 /c2897fa7-e30d-409f-b7ce-bf0be238086e。
+已更新 U2 个字段。
+已将 U2 图纸名称更新为 '/'。
+已将 U2 图纸文件更新为 'poms-LDO.kicad_sch'。
+已将 U2 封装筛选规则更新为 'SOT?23*'。
+将 U2 引脚 2 连接到了 Net-(U2-REF)。
+添加网络 Net-(U1A-+)。
+将 U2 引脚 3 连接到了 Net-(U1A-+)。
+将 U2 引脚 1 连接到了 GND。
+已更新 U2 单元的元数据。
+错误: 无法添加 U1 (没有分配封装)。
+
+
+信息: 总计警告: 0, 错误: 1。
